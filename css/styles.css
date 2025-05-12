@@ -33,7 +33,7 @@ body {
   width: 100%;
   max-width: 350px;
   height: 300px;
-  object-fit: cover;
+  object-fit: cover; /* How ti should be resized to fit its container. */ 
   border-radius: 10px;
 }
 
